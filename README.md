@@ -1,4 +1,4 @@
 Foundry-fellowly
 ===============
 
-The second family of [Finite ∞](https://github.com/thoughtbot/finite), built for health and happiness.
+The second family of [Foundry ∞](https://github.com/thoughtbot/foundry), built for health and happiness.
